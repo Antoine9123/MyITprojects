@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 306.96 306.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #1e1e1c;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        opacity: .71;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #e26d5c;
+      }
+
+      .cls-4, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        opacity: .43;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="153.48" cy="153.82" r="151.15"/>
+  <circle class="cls-4" cx="153.48" cy="153.82" r="151.15"/>
+  <ellipse class="cls-6" cx="166.37" cy="153.48" rx="138.25" ry="146.07"/>
+  <ellipse class="cls-5" cx="181.92" cy="153.82" rx="122.7" ry="137.68"/>
+  <circle class="cls-3" cx="153.48" cy="153.48" r="151.48"/>
+  <circle class="cls-2" cx="153.48" cy="153.48" r="151.48"/>
+</svg>

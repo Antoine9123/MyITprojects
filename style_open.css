@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+
+
+h1{font-size: 200px;}
+
+@font-face {
+    font-family: 'Megrim';
+    src: url('font/Megrim.ttf') format('truetype');
+    /* Autres formats de police et propriétés */
+}
+
+
+/* ######## BACKGROUND pages principales ---------------------------------------------- */
+.CodeBG {
+    position: absolute;
+    background-image: url('img/Background.png');
+    background-size: cover;
+
+    top: 0vh;
+    height: 100vh;
+    width: 100vw;  
+}
+.HomeBG {
+    position: absolute;
+    background-image: url('img/Background.png');
+    background-size: cover;
+
+    top: 100vh;
+    height: 100vh;
+    width: 100vw;
+}
+.WebsitesBG {
+    position: absolute;
+    background-image: url('img/Background.png');
+    background-size: cover;
+
+    top: 200vh;
+    height: 100vh;
+    width: 100vw;   
+    z-index: 10;
+}
+
+.AboutBG {
+    position: absolute;
+    background-image: url('img/Background.png');
+    background-size: cover;
+
+    top: 300vh;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.ContactBG {
+    position: absolute;
+    background-image: url('img/Background.png');
+    background-size: cover;
+
+    top: 400vh;
+    height: 100vh;
+    width: 100vw;
+    
+}

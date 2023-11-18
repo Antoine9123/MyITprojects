@@ -1,0 +1,167 @@
+
+.titre {
+    position: absolute;
+    font-size: 5vh;
+    font-family: 'Megrim';
+    color: #E9C46A;
+    border: 1px solid #E9C46A;
+    padding: 6px;
+    width: 18vw;
+    top: 15vh;
+    left: 5vw;
+
+
+}
+
+/* ####### CODE PLANET ------------------------------------------------------------------------------ */
+.HomeCodePlanet{
+    position: absolute;
+    width: 15vw;
+    bottom: 20vh;
+    left: 10vw;
+    z-index: 5;
+    transition: 1s;
+}
+
+.HomeCodePlanet:hover{
+    position: absolute;
+    transform: scale(1.1);
+
+    transition: 1s;
+}
+
+.HomeCodePlanet img{
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    left: 10vw;
+    z-index: 5;
+}
+/* ####### HOME PLANET ------------------------------------------------------------------------------ */
+.HomeHomePlanet {
+    position: absolute;
+    width: 30vw;
+    top: 70vh;
+    left: 35vw;
+    right: 35vw;
+    z-index: 5;
+    transition: 1s;
+    display: flex;
+    align-items: center; /* Centrer verticalement */
+    justify-content: center; /* Centrer horizontalement */
+}
+
+
+.HomeHomePlanet:hover {
+    position: absolute;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.HomeHomePlanet img {
+    left: 10vw;
+    z-index: 5;
+}
+@keyframes TurnAround {
+    0%      {transform: translateX(0);z-index: 5; }
+
+    25%     {transform: translateX(+37vw); z-index: 5;}
+    26%     {transform: translateX(+37vw); z-index: 4;}
+    
+    50%     {transform: translateX(0);z-index: 4;}
+    51%     {transform: translateX(0);z-index: 5;}
+
+    75%     {transform: translateX(+37vw); z-index: 5;}
+    76%     {transform: translateX(+37vw); z-index: 4;}
+
+    100%    {transform: translateX(0); z-index: 4;}
+}
+
+.HomeMoon{
+    position: absolute;
+    left: +30vw;
+    bottom: 10vh;
+    width: 4vw;
+    z-index: 5;
+    user-select: none;
+    pointer-events: none;
+
+    animation: TurnAround 60s ease-in-out infinite;
+}
+
+
+
+/* ####### WEBSITES PLANET ------------------------------------------------------------------------------ */
+.HomeWebsitesPlanet{
+    position: absolute;
+    width: 25vw;
+    bottom: 15vh;
+    right: 8vw;
+    z-index: 5;
+    transition: 1s;
+}
+
+.HomeWebsitesPlanet:hover{
+    position: absolute;
+    transform: scale(1.1);
+
+    transition: 1s;
+}
+
+.HomeWebsitesPlanet img{
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    left: 10vw;
+    z-index: 5;
+}
+
+/* ####### ABOUT PLANET ------------------------------------------------------------------------------ */
+.HomeAboutPlanet{
+    position: absolute;
+    width: 15vw;
+    top: 15vh;
+    right: 50vw;
+    z-index: 5;
+    transition: 1s;
+}
+
+.HomeAboutPlanet:hover{
+    position: absolute;
+    transform: scale(1.1);
+
+    transition: 1s;
+}
+
+.HomeAboutPlanet img{
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    left: 10vw;
+    z-index: 5;
+}
+
+/* ####### ABOUT PLANET ------------------------------------------------------------------------------ */
+.HomeContactPlanet{
+    position: absolute;
+    width: 5vw;
+    top: 15vh;
+    right: 15vw;
+    z-index: 5;
+    transition: 1s;
+}
+
+.HomeContactPlanet:hover{
+    position: absolute;
+    transform: scale(1.1);
+
+    transition: 1s;
+}
+
+.HomeContactPlanet img{
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    left: 10vw;
+    z-index: 5;
+}
