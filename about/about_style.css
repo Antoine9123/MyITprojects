@@ -1,7 +1,7 @@
 
 
 #About {
-    color: #472d30;
+    color: #8EA9C4;
     font-family:'Vogue', sans-serif;
 }
 
@@ -18,23 +18,143 @@
 #About p {
     position: absolute;
     font-size: 40px ;
-    border: 2px solid #472d30;
+    color: #472d30;
     padding: 30px;
     width: 40vw;
-    top: 30vh;
-    left: 20vw;
-    background-color: #ffe1a8;
+    top: 25vh;
+    left: 35vw;
+    background-color: none;
     font-style: normal;
     font-weight: normal;
-    border-radius: 10%;
+    
 
 }
 
-#About img {
-    position: absolute;
-    height: 30vh;
-    left: 5vw;
-    top: 40vh;
-    border: 2px solid #472d30;
+#me {
+    position : absolute;
+    border: 2px solid #C9CBA3;
     border-radius: 10%;
+    left: 12vw;
+    width: 15vw;
+    top: 30vh;
+    
+}
+
+/* ####### CODE PLANET ------------------------------------------------------------------------------ */
+.AboutCodePlanet{
+    position: absolute;
+    width: 10vw;
+    top: 15vh;
+    right: 5vw;
+    z-index: 5;
+    transition: 1s;
+}
+
+.AboutCodePlanet:hover{
+    position: absolute;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.AboutCodePlanet img{
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    left: 10vw;
+    z-index: 5;
+}
+
+/* ####### HOME PLANET ------------------------------------------------------------------------------ */
+.AboutHomePlanet {
+    position: absolute;
+    width: 10vw;
+    top: 30vh;;
+    right: 5vw;
+    z-index: 5;
+    transition: 1s;
+
+}
+
+.AboutHomePlanet:hover {
+    position: absolute;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.AboutHomePlanet img {
+
+    z-index: 5;
+}
+
+
+
+/* ####### WEBSITES PLANET ------------------------------------------------------------------------------ */
+.AboutWebsitesPlanet{
+    position: absolute;
+    width: 10vw;
+    top: 45vh;
+    right: 5vw;
+    z-index: 5;
+    transition: 1s;
+}
+
+.AboutWebsitesPlanet:hover{
+    position: absolute;
+    transform: scale(1.1);
+
+    transition: 1s;
+}
+
+.AboutWebsitesPlanet img{
+    z-index: 5;
+}
+
+/* ####### ABOUT PLANET ------------------------------------------------------------------------------ */
+.AboutAboutPlanet{
+    position: absolute;
+    width: 10vw;
+    top: 60vh;
+    right: 5vw;
+    z-index: 5;
+    transition: 1s;
+}
+
+.AboutAboutPlanet:hover{
+    position: absolute;
+    transform: scale(1.1);
+
+    transition: 1s;
+}
+
+.AboutAboutPlanet img{
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    left: 10vw;
+    z-index: 5;
+}
+
+/* ####### CONTACT PLANET ------------------------------------------------------------------------------ */
+.AboutContactPlanet{
+    position: absolute;
+    width: 10vw;
+    top: 75vh;
+    right: 5vw;
+    z-index: 5;
+    transition: 1s;
+}
+
+.AboutContactPlanet:hover{
+    position: absolute;
+    transform: scale(1.1);
+
+    transition: 1s;
+}
+
+.AboutContactPlanet img{
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    left: 10vw;
+    z-index: 5;
 }
