@@ -9,8 +9,6 @@
     width: 18vw;
     top: 15vh;
     left: 5vw;
-
-
 }
 
 /* ####### CODE PLANET ------------------------------------------------------------------------------ */
@@ -26,7 +24,6 @@
 .HomeCodePlanet:hover{
     position: absolute;
     transform: scale(1.1);
-
     transition: 1s;
 }
 
@@ -47,10 +44,9 @@
     z-index: 5;
     transition: 1s;
     display: flex;
-    align-items: center; /* Centrer verticalement */
-    justify-content: center; /* Centrer horizontalement */
+    align-items: center;
+    justify-content: center; 
 }
-
 
 .HomeHomePlanet:hover {
     position: absolute;
@@ -88,8 +84,6 @@
 
     animation: TurnAround 60s ease-in-out infinite;
 }
-
-
 
 /* ####### WEBSITES PLANET ------------------------------------------------------------------------------ */
 .HomeWebsitesPlanet{

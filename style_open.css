@@ -11,9 +11,12 @@ h1{font-size: 200px;}
 @font-face {
     font-family: 'Megrim';
     src: url('font/Megrim.ttf') format('truetype');
-    /* Autres formats de police et propriétés */
 }
+@font-face {
+    font-family: 'Vogue';
+    src: url('font/Vogue.ttf') format('truetype');
 
+}
 
 /* ######## BACKGROUND pages principales ---------------------------------------------- */
 .CodeBG {
@@ -47,7 +50,7 @@ h1{font-size: 200px;}
 
 .AboutBG {
     position: absolute;
-    background-image: url('img/Background.png');
+    background-image: url('img/BackgroundABOUT.png');
     background-size: cover;
 
     top: 300vh;
