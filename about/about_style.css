@@ -10,8 +10,8 @@
     font-size: 200px ;
     padding: 6px;
     width: 50vw;
-    top: 0vh;
-    left: 5vh;
+    top: 10vh;
+    left: 30vh;
     
 }
 
@@ -20,9 +20,9 @@
     font-size: 40px ;
     color: #472d30;
     padding: 30px;
-    width: 40vw;
-    top: 25vh;
-    left: 35vw;
+    width: 60vw;
+    top: 30vh;
+    left: 20vw;
     background-color: none;
     font-style: normal;
     font-weight: normal;
@@ -32,19 +32,19 @@
 
 #me {
     position : absolute;
-    border: 2px solid #C9CBA3;
-    border-radius: 10%;
-    left: 12vw;
-    width: 15vw;
-    top: 30vh;
+    
+    
+    left: 5vw;
+    width: 10vw;
+    bottom: 30vh;
     
 }
 
 /* ####### CODE PLANET ------------------------------------------------------------------------------ */
 .AboutCodePlanet{
     position: absolute;
-    width: 10vw;
-    top: 15vh;
+    width: 5vw;
+    top: 25vh;
     right: 5vw;
     z-index: 5;
     transition: 1s;
@@ -68,7 +68,7 @@
 .AboutHomePlanet {
     position: absolute;
     width: 10vw;
-    top: 30vh;;
+    bottom: -1vh;;
     right: 5vw;
     z-index: 5;
     transition: 1s;
@@ -91,7 +91,7 @@
 /* ####### WEBSITES PLANET ------------------------------------------------------------------------------ */
 .AboutWebsitesPlanet{
     position: absolute;
-    width: 10vw;
+    width: 5vw;
     top: 45vh;
     right: 5vw;
     z-index: 5;
@@ -112,7 +112,7 @@
 /* ####### ABOUT PLANET ------------------------------------------------------------------------------ */
 .AboutAboutPlanet{
     position: absolute;
-    width: 10vw;
+    width: 5vw;
     top: 60vh;
     right: 5vw;
     z-index: 5;
@@ -130,14 +130,14 @@
     position: flex;
     align-items: center;
     justify-content: center;
-    left: 10vw;
+    left: 5vw;
     z-index: 5;
 }
 
 /* ####### CONTACT PLANET ------------------------------------------------------------------------------ */
 .AboutContactPlanet{
     position: absolute;
-    width: 10vw;
+    width: 5vw;
     top: 75vh;
     right: 5vw;
     z-index: 5;

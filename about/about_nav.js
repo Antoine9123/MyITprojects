@@ -1,10 +1,10 @@
-const homeCodePlanet = document.getElementById('HomeCodePlanet');
-const homeWebsitesPlanet = document.getElementById('HomeWebsitesPlanet');
-const homeAboutPlanet = document.getElementById('HomeAboutPlanet');
-const homeContactPlanet = document.getElementById('HomeContactPlanet');
+const aboutCodePlanet = document.getElementById('AboutCodePlanet');
+const aboutWebsitesPlanet = document.getElementById('AboutWebsitesPlanet');
+const aboutAboutPlanet = document.getElementById('AboutAboutPlanet');
+const aboutContactPlanet = document.getElementById('AboutContactPlanet');
 
-homeCodePlanet.addEventListener('click', () => {
-    const scrollPosition = 0 * window.innerHeight / 100; // 50vh
+aboutCodePlanet.addEventListener('click', () => {
+    const scrollPosition = 0 * window.innerHeight / 100; 
     window.scrollTo({
         top: scrollPosition,
         behavior: 'smooth' 
@@ -12,9 +12,9 @@ homeCodePlanet.addEventListener('click', () => {
 });
 
 
-homeWebsitesPlanet.addEventListener('click', () => {
+aboutWebsitesPlanet.addEventListener('click', () => {
 
-    const scrollPosition = 200 * window.innerHeight / 100; // 50vh
+    const scrollPosition = 200 * window.innerHeight / 100; 
     window.scrollTo({
         top: scrollPosition,
         behavior: 'smooth' 
@@ -22,9 +22,9 @@ homeWebsitesPlanet.addEventListener('click', () => {
 });
 
 
-homeAboutPlanet.addEventListener('click', () => {
+aboutAboutPlanet.addEventListener('click', () => {
  
-    const scrollPosition = 300 * window.innerHeight / 100; // 50vh
+    const scrollPosition = 300 * window.innerHeight / 100;
     window.scrollTo({
         top: scrollPosition,
         behavior: 'smooth'
@@ -32,9 +32,9 @@ homeAboutPlanet.addEventListener('click', () => {
 });
 
 
-homeContactPlanet.addEventListener('click', () => {
+aboutContactPlanet.addEventListener('click', () => {
 
-    const scrollPosition = 400 * window.innerHeight / 100; // 50vh
+    const scrollPosition = 400 * window.innerHeight / 100; 
     window.scrollTo({
         top: scrollPosition,
         behavior: 'smooth'
