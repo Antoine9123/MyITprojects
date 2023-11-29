@@ -17,11 +17,15 @@ h1{font-size: 200px;}
     src: url('font/Vogue.ttf') format('truetype');
 
 }
+@font-face {
+    font-family: 'Minecraft';
+    src: url('font/Minecraft.ttf') format('truetype');
+}
 
 /* ######## BACKGROUND pages principales ---------------------------------------------- */
 .CodeBG {
     position: absolute;
-    background-image: url('img/Background.png');
+    background-image: url('img/BackgroundCODE.png');
     background-size: cover;
 
     top: 0vh;

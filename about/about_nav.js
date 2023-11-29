@@ -1,6 +1,6 @@
 const aboutCodePlanet = document.getElementById('AboutCodePlanet');
 const aboutWebsitesPlanet = document.getElementById('AboutWebsitesPlanet');
-const aboutAboutPlanet = document.getElementById('AboutAboutPlanet');
+const aboutHomePlanet = document.getElementById('AboutHomePlanet');
 const aboutContactPlanet = document.getElementById('AboutContactPlanet');
 
 aboutCodePlanet.addEventListener('click', () => {
@@ -22,9 +22,9 @@ aboutWebsitesPlanet.addEventListener('click', () => {
 });
 
 
-aboutAboutPlanet.addEventListener('click', () => {
+aboutHomePlanet.addEventListener('click', () => {
  
-    const scrollPosition = 300 * window.innerHeight / 100;
+    const scrollPosition = 100 * window.innerHeight / 100;
     window.scrollTo({
         top: scrollPosition,
         behavior: 'smooth'

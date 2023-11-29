@@ -1,28 +1,26 @@
-
-
-#About {
-    color: #8EA9C4;
-    font-family:'Vogue', sans-serif;
+#Code {
+    color: #472d30;
+    font-family:'Minecraft', monospace;
 }
 
-#About h1 {
+#Code h1 {
     position: relative;
     font-size: 200px ;
     padding: 6px;
     width: 50vw;
-    top: 10vh;
-    left: 30vh;
+    top: 8vh;
+    left: 35vw;
     
 }
 
-#About p {
+#Code p {
     position: absolute;
-    font-size: 40px ;
+    font-size: 18px ;
     color: #472d30;
-    padding: 30px;
-    width: 60vw;
-    top: 30vh;
-    left: 20vw;
+    padding: 0px;
+    width: 33vw;
+    top: 0vh;
+    left: 0vw;
     background-color: none;
     font-style: normal;
     font-weight: normal;
@@ -30,13 +28,11 @@
 
 }
 
-
-
-#me {
+#Pcode p {
     position : absolute;
     
     
-    left: 5vw;
+    left: 50vw;
     width: 10vw;
     bottom: 30vh;
     
