@@ -30,8 +30,7 @@ h1{font-size: 200px;}
 /* ######## BACKGROUND pages principales ---------------------------------------------- */
 .CodeBG {
     position: absolute;
-    background-image: url('img/BackgroundCODE.png');
-    background-size: cover;
+
 
     top: 0vh;
     height: 100vh;
@@ -48,8 +47,6 @@ h1{font-size: 200px;}
 }
 .WebsitesBG {
     position: absolute;
-    background-image: url('img/BackgroundWEBSITES.png');
-    background-size: cover;
 
     top: 200vh;
     height: 100vh;
@@ -59,8 +56,8 @@ h1{font-size: 200px;}
 
 .AboutBG {
     position: absolute;
-    background-image: url('img/BackgroundABOUT.png');
-    background-size: cover;
+    
+ 
 
     top: 300vh;
     height: 100vh;
@@ -71,7 +68,7 @@ h1{font-size: 200px;}
 .ContactBG {
     position: absolute;
     
-    background-size: cover;
+
 
     top: 400vh;
     height: 100vh;
