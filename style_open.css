@@ -5,23 +5,14 @@
     font-family: 'Lemosty';
     }
 
-
+body {
+    background-color: #355C66;
+    color: #FFF3B0;
+}
 
 h1{font-size: 200px;}
 
-@font-face {
-    font-family: 'Megrim';
-    src: url('font/Megrim.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Vogue';
-    src: url('font/Vogue.ttf') format('truetype');
 
-}
-@font-face {
-    font-family: 'Minecraft';
-    src: url('font/Minecraft.ttf') format('truetype');
-}
 @font-face {
     font-family: 'Lemosty';
     src: url('font/Lemosty.otf') format('truetype');
@@ -38,8 +29,6 @@ h1{font-size: 200px;}
 }
 .HomeBG {
     position: absolute;
-    background-image: url('img/BackgroundHOME.png');
-    background-size: cover;
 
     top: 100vh;
     height: 100vh;

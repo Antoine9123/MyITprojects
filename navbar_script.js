@@ -62,6 +62,6 @@ ContactPAGE.addEventListener('click', () => {
     document.body.style.color = '#355C66';
     CodePAGE.style.color ='#355C66'
     WebPAGE.style.color ='#355C66'
-    AboutPAGE.style.color ='#355C66'
-    ContactPAGE.style.color ='#355C66'
+    AboutPAGE.style.color ='#FFF3B0'
+    ContactPAGE.style.color ='#FFF3B0'
 });

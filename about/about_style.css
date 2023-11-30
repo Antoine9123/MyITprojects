@@ -1,23 +1,18 @@
 
 
-#About {
-    color: #8EA9C4;
-}
-
 #About h1 {
     position: relative;
-    font-size: 200px ;
+    font-size: 220px ;
     padding: 6px;
     width: 50vw;
-    top: 10vh;
-    left: 30vh;
+    top: 5vh;
+    left: 15vh;
     
 }
 
 #About p {
     position: absolute;
-    font-size: 40px ;
-    color: #472d30;
+    font-size: 50px ;
     padding: 30px;
     width: 60vw;
     top: 30vh;
