@@ -15,5 +15,6 @@ nav a {
     margin-bottom: 10vh;
     text-decoration: none;
     color: #FFF3B0; 
-    writing-mode: vertical-lr; 
+    writing-mode: vertical-lr;
+    cursor: pointer; 
 }

@@ -10,6 +10,7 @@ body
 {
     background-color: #355C66;
     color: #FFF3B0;
+    overflow: hidden;
 }
 
 h1{font-size: 200px;}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146.4 128.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9e2a2b;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: Lemosty, Lemosty;
+        font-size: 8.87px;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #e0a03f;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="14.79" cy="21.74" rx="12.42" ry="7.25"/>
+  <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" x="14.79" y="14.5" width="121.26" height="14.49"/>
+  <ellipse id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="135.16" cy="21.74" rx="11.24" ry="7.25"/>
+  <g id="Python" class="cls-2">
+    <text class="cls-3" transform="translate(63.24 7.69)"><tspan x="0" y="0">Python</tspan></text>
+  </g>
+  <g>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-5" x="47.97" y="14.5" width="53.73" height="14.49"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" class="cls-5" cx="101.7" cy="21.74" rx="7.09" ry="7.25"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" class="cls-5" cx="47.97" cy="21.74" rx="7.09" ry="7.25"/>
+  </g>
+  <ellipse id="Ellipse_5" data-name="Ellipse 5" class="cls-1" cx="14.79" cy="54.87" rx="12.42" ry="7.25"/>
+  <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-1" x="14.79" y="47.62" width="121.26" height="14.49"/>
+  <ellipse id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="135.16" cy="54.87" rx="11.24" ry="7.25"/>
+  <g id="C_" data-name="C " class="cls-2">
+    <text class="cls-3" transform="translate(69.32 40.82)"><tspan x="0" y="0">C#</tspan></text>
+  </g>
+  <ellipse id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="12.42" cy="87.99" rx="12.42" ry="7.25"/>
+  <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-1" x="12.42" y="80.75" width="121.26" height="14.49"/>
+  <ellipse id="Ellipse_10" data-name="Ellipse 10" class="cls-1" cx="132.8" cy="87.99" rx="11.24" ry="7.25"/>
+  <g id="JavaScript" class="cls-2">
+    <text class="cls-3" transform="translate(53.83 73.94)"><tspan class="cls-7" x="0" y="0">J</tspan><tspan class="cls-8" x="4.31" y="0">a</tspan><tspan class="cls-6" x="8.62" y="0">v</tspan><tspan x="12.76" y="0">aScript</tspan></text>
+  </g>
+  <ellipse id="Ellipse_13" data-name="Ellipse 13" class="cls-1" cx="12.42" cy="121.12" rx="12.42" ry="7.25"/>
+  <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-1" x="12.42" y="113.87" width="121.26" height="14.49"/>
+  <ellipse id="Ellipse_14" data-name="Ellipse 14" class="cls-1" cx="132.8" cy="121.12" rx="11.24" ry="7.25"/>
+  <g id="Html_Css" data-name="Html Css" class="cls-2">
+    <text class="cls-3" transform="translate(51.46 107.07)"><tspan class="cls-4" x="0" y="0">H</tspan><tspan x="5.56" y="0">tml / Css</tspan></text>
+  </g>
+  <g>
+    <rect id="Rectangle_5-2" data-name="Rectangle 5" class="cls-5" x="57.63" y="47.62" width="34.41" height="14.49"/>
+    <ellipse id="Ellipse_2-2" data-name="Ellipse 2" class="cls-5" cx="92.04" cy="54.87" rx="4.54" ry="7.25"/>
+    <ellipse id="Ellipse_4-2" data-name="Ellipse 4" class="cls-5" cx="57.63" cy="54.87" rx="4.54" ry="7.25"/>
+  </g>
+  <g>
+    <rect id="Rectangle_5-3" data-name="Rectangle 5" class="cls-5" x="64.27" y="80.75" width="19.41" height="14.49"/>
+    <ellipse id="Ellipse_2-3" data-name="Ellipse 2" class="cls-5" cx="83.67" cy="87.99" rx="2.56" ry="7.25"/>
+    <ellipse id="Ellipse_4-3" data-name="Ellipse 4" class="cls-5" cx="64.27" cy="87.99" rx="2.56" ry="7.25"/>
+  </g>
+  <g>
+    <rect id="Rectangle_5-4" data-name="Rectangle 5" class="cls-5" x="46.61" y="113.87" width="49.97" height="14.49"/>
+    <ellipse id="Ellipse_2-4" data-name="Ellipse 2" class="cls-5" cx="96.58" cy="121.12" rx="6.59" ry="7.25"/>
+    <ellipse id="Ellipse_4-4" data-name="Ellipse 4" class="cls-5" cx="46.61" cy="121.12" rx="6.59" ry="7.25"/>
+  </g>
+</svg>
