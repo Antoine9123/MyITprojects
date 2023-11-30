@@ -1,11 +1,13 @@
-* {
+* 
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Lemosty';
-    }
+}
 
-body {
+body 
+{
     background-color: #355C66;
     color: #FFF3B0;
 }
@@ -13,54 +15,47 @@ body {
 h1{font-size: 200px;}
 
 
-@font-face {
+@font-face 
+{
     font-family: 'Lemosty';
     src: url('font/Lemosty.otf') format('truetype');
 }
 
 /* ######## BACKGROUND pages principales ---------------------------------------------- */
-.CodeBG {
+.CodeBG 
+{
     position: absolute;
-
-
     top: 0vh;
     height: 100vh;
     width: 100vw;  
 }
-.HomeBG {
+.HomeBG 
+{
     position: absolute;
-
     top: 100vh;
     height: 100vh;
     width: 100vw;
 }
-.WebsitesBG {
+.WebsitesBG 
+{
     position: absolute;
-
     top: 200vh;
     height: 100vh;
     width: 100vw;   
-    z-index: 10;
 }
 
-.AboutBG {
+.AboutBG 
+{
     position: absolute;
-    
- 
-
     top: 300vh;
     height: 100vh;
-    width: 100vw;
-    
+    width: 100vw;    
 }
 
-.ContactBG {
+.ContactBG 
+{
     position: absolute;
-    
-
-
     top: 400vh;
     height: 100vh;
-    width: 100vw;
-    
+    width: 100vw; 
 }
