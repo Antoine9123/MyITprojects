@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Lemosty';
     }
 
 
@@ -20,6 +21,10 @@ h1{font-size: 200px;}
 @font-face {
     font-family: 'Minecraft';
     src: url('font/Minecraft.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lemosty';
+    src: url('font/Lemosty.otf') format('truetype');
 }
 
 /* ######## BACKGROUND pages principales ---------------------------------------------- */
@@ -65,7 +70,7 @@ h1{font-size: 200px;}
 
 .ContactBG {
     position: absolute;
-    background-image: url('img/BackgroundCONTACT.png');
+    
     background-size: cover;
 
     top: 400vh;

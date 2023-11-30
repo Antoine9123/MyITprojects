@@ -1,14 +1,15 @@
 
 .titre {
     position: absolute;
-    font-size: 5vh;
-    font-family: 'Megrim';
-    color: #E9C46A;
-    border: 1px solid #E9C46A;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15vh;
+    color: #FFF3B0;
+    border: 2px solid #FFF3B0;
     padding: 6px;
-    width: 18vw;
-    top: 15vh;
-    left: 5vw;
+    width: 50vw;
+    text-align: center;
 }
 
 /* ####### CODE PLANET ------------------------------------------------------------------------------ */
