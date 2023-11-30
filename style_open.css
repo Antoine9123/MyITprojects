@@ -30,6 +30,7 @@ h1{font-size: 200px;}
     height: 100vh;
     width: 100vw;  
 }
+
 .HomeBG 
 {
     position: absolute;
@@ -37,6 +38,7 @@ h1{font-size: 200px;}
     height: 100vh;
     width: 100vw;
 }
+
 .WebsitesBG 
 {
     position: absolute;

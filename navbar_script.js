@@ -5,7 +5,8 @@ const ContactPAGE = document.getElementById('ContactPage');
 
 window.onload = function() {
     const scrollPosition = 100 * window.innerHeight / 100; // 50vh
-    window.scrollTo({
+    window.scrollTo
+    ({
         top: scrollPosition,
         behavior: 'auto'
     });
@@ -13,7 +14,8 @@ window.onload = function() {
 
 CodePAGE.addEventListener('click', () => {
     const scrollPosition = 0 * window.innerHeight / 100; // 50vh
-    window.scrollTo({
+    window.scrollTo
+    ({
         top: scrollPosition,
         behavior: 'smooth' 
     });
@@ -29,7 +31,8 @@ CodePAGE.addEventListener('click', () => {
 WebPAGE.addEventListener('click', () => {
 
     const scrollPosition = 200 * window.innerHeight / 100; // 50vh
-    window.scrollTo({
+    window.scrollTo
+    ({
         top: scrollPosition,
         behavior: 'smooth' 
     });
@@ -45,7 +48,8 @@ WebPAGE.addEventListener('click', () => {
 AboutPAGE.addEventListener('click', () => {
  
     const scrollPosition = 300 * window.innerHeight / 100; // 50vh
-    window.scrollTo({
+    window.scrollTo
+    ({
         top: scrollPosition,
         behavior: 'smooth'
     });
@@ -61,7 +65,8 @@ AboutPAGE.addEventListener('click', () => {
 ContactPAGE.addEventListener('click', () => {
 
     const scrollPosition = 400 * window.innerHeight / 100; // 50vh
-    window.scrollTo({
+    window.scrollTo
+    ({
         top: scrollPosition,
         behavior: 'smooth'
     });

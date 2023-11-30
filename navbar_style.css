@@ -1,4 +1,5 @@
-nav {
+nav 
+{
     position: fixed;
     left: 0;
     top: 50%; /* Adjust this value to position it vertically as desired */
@@ -9,7 +10,8 @@ nav {
     z-index: 20;
 }
 
-nav a {
+nav a 
+{
     margin: 15px; 
     margin-top: 10vh;
     margin-bottom: 10vh;

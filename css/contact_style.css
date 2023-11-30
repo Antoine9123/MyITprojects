@@ -1,4 +1,5 @@
-#Contact h1 {
+#Contact h1 
+{
     position: absolute;
     top: 20vh;
     left: 50%;
@@ -9,7 +10,8 @@
     text-align: center;
 }
 
-#Contact p {
+#Contact p 
+{
     position: absolute;
     bottom: 15vh;
     left: 50%;
@@ -22,7 +24,8 @@
     z-index: 10;
 }
 
-#Contact span {
+#Contact span 
+{
     position: absolute;
     bottom: 0;
     left: 50%;
