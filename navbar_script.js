@@ -3,6 +3,13 @@ const WebPAGE = document.getElementById('WebPage');
 const AboutPAGE = document.getElementById('AboutPage');
 const ContactPAGE = document.getElementById('ContactPage');
 
+window.onload = function() {
+    const scrollPosition = 100 * window.innerHeight / 100; // 50vh
+    window.scrollTo({
+        top: scrollPosition,
+        behavior: 'auto'
+    });
+};
 
 CodePAGE.addEventListener('click', () => {
     const scrollPosition = 0 * window.innerHeight / 100; // 50vh
